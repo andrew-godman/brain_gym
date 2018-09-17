@@ -1,6 +1,6 @@
-#**** Week 1
+**** Week 1
 
-#brain_gym
+# brain_gym
 
 ## Question One
 
