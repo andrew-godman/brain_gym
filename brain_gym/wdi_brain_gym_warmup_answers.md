@@ -41,9 +41,7 @@ You need to move 3,000 figs 1,000 nautical miles from Figopia to Capertown. Your
 
 What is highest number of figs you can get to Capertown?
 
-**Answer:**  0 ¯\_(ツ)_/¯
-
-
+**Answer:**  0 🤷‍♂️
 
 ### Question Six
 
